@@ -27,6 +27,6 @@ End-to-end machine learning system for predicting loan default risk using XGBoos
 - Streamlit
 
 ## 🌐 Live App
-(Insert your Streamlit link here after deployment)
+
 
 ## 📂 Project Structure
