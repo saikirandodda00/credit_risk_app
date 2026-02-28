@@ -1,5 +1,3 @@
-
-
 import streamlit as st
 import pandas as pd
 import joblib
@@ -102,4 +100,5 @@ if st.button("Predict"):
         ),
         max_display=7
     )
+
     st.pyplot(fig)
